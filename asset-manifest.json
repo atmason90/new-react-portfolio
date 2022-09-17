@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/new-react-portfolio/static/css/main.2490f437.css",
+    "main.js": "/new-react-portfolio/static/js/main.9092cd66.js",
+    "static/media/hungrysharks.gif": "/new-react-portfolio/static/media/hungrysharks.0da36367f959451fe267.gif",
+    "static/media/profile.png": "/new-react-portfolio/static/media/profile.01439ca805ea3f8d2dfa.png",
+    "static/media/bookend.jpeg": "/new-react-portfolio/static/media/bookend.608a5f4764205d234988.jpeg",
+    "static/media/profile.jpg": "/new-react-portfolio/static/media/profile.a6c22265466cf6fcacc6.jpg",
+    "static/media/resume.pdf": "/new-react-portfolio/static/media/resume.44b5f3a6cffe1b1a3004.pdf",
+    "static/media/ecomm.jpeg": "/new-react-portfolio/static/media/ecomm.2d5397a35390cf4e768f.jpeg",
+    "static/media/ems.jpeg": "/new-react-portfolio/static/media/ems.ea340663ebbcd99edf64.jpeg",
+    "static/media/techblog.jpeg": "/new-react-portfolio/static/media/techblog.2037b26ab8f31a9b8544.jpeg",
+    "static/media/texteditor.jpeg": "/new-react-portfolio/static/media/texteditor.dd34e673a00a31be3957.jpeg",
+    "static/media/socialnetwork.jpeg": "/new-react-portfolio/static/media/socialnetwork.7b4f204bdc07d28a9af7.jpeg",
+    "index.html": "/new-react-portfolio/index.html",
+    "main.2490f437.css.map": "/new-react-portfolio/static/css/main.2490f437.css.map",
+    "main.9092cd66.js.map": "/new-react-portfolio/static/js/main.9092cd66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2490f437.css",
+    "static/js/main.9092cd66.js"
+  ]
+}
