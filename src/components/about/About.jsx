@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
-import profile from '../../assets/profile.png'
+import profile from '../../assets/profile.jpg'
 import {BiAward} from 'react-icons/bi'
 import {TbBarbell} from 'react-icons/tb'
 import {FaUserGraduate} from 'react-icons/fa'
