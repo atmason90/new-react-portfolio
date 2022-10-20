@@ -36,8 +36,8 @@ const About = () => {
             </article>
           </div>
 
-          <p>Full Stack Developer with a background in Management Consulting. I am looking to leverage my development skills to provide web applications that support business initiatives. Earned a certificate in web development from the University of California, Berkeley. Skilled in JavaScript, CSS, HTML5, MySQL, MongoDB, Node.js, Express, React, OOP, MVC, among other technologies.</p>
-          <p>My management consulting experience has made me highly proficient working with teams of up to 20 people to create dynamic and lasting business solutions. Recognized as a results-driven, resourceful, and persistent problem-solver. Excellent communicator with effective relationship-building skills. I bring a strong technical acumen, along with a tenacity and desire to learn, grow and achieve in any endeavor, making me an asset to any organization or community I am a member of.</p>
+          <p>Full Stack Developer with a background in Management Consulting. I am looking to leverage my technical skills from recently completed UC Berkeley coding bootcamp to provide web applications that support business initiatives. Proficient in JavaScript, CSS, HTML5, MySQL, MongoDB, Node.js, Express, React, OOP, MVC, among other technologies.</p>
+          <p>My previous experience includes successfully working with large, cross-functional teams to create dynamic and lasting business solutions. Recognized as a results-driven, resourceful, and persistent problem-solver. I am an Excellent communicator with effective relationship-building skills. I bring a strong technical acumen, along with a tenacity to learn, grow, achieve and add value to any organization or community. I am extremely passionate about creating elagantly designed programs that create seamless user experiences.</p>
 
           <a href="#contact" className='btn btn-primary'>Contact Me</a>
         </div>
