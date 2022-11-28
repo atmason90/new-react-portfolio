@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/new-react-portfolio/static/css/main.2490f437.css",
-    "main.js": "/new-react-portfolio/static/js/main.1d7c819e.js",
+    "main.js": "/new-react-portfolio/static/js/main.4d9b7b12.js",
     "static/media/hungrysharks.gif": "/new-react-portfolio/static/media/hungrysharks.0da36367f959451fe267.gif",
+    "static/media/taskmanager.gif": "/new-react-portfolio/static/media/taskmanager.92deea375ee90e9d3012.gif",
     "static/media/profile.png": "/new-react-portfolio/static/media/profile.01439ca805ea3f8d2dfa.png",
     "static/media/bookend.jpeg": "/new-react-portfolio/static/media/bookend.608a5f4764205d234988.jpeg",
     "static/media/resume.pdf": "/new-react-portfolio/static/media/resume.0615724855f6e604895c.pdf",
@@ -14,10 +15,10 @@
     "static/media/socialnetwork.jpeg": "/new-react-portfolio/static/media/socialnetwork.7b4f204bdc07d28a9af7.jpeg",
     "index.html": "/new-react-portfolio/index.html",
     "main.2490f437.css.map": "/new-react-portfolio/static/css/main.2490f437.css.map",
-    "main.1d7c819e.js.map": "/new-react-portfolio/static/js/main.1d7c819e.js.map"
+    "main.4d9b7b12.js.map": "/new-react-portfolio/static/js/main.4d9b7b12.js.map"
   },
   "entrypoints": [
     "static/css/main.2490f437.css",
-    "static/js/main.1d7c819e.js"
+    "static/js/main.4d9b7b12.js"
   ]
 }
