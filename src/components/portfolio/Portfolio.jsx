@@ -15,6 +15,7 @@ const data = [
     id: 1,
     image: taskmanager,
     title: 'Task Manager',
+    description: 'Typescript / React / Material UI / Node',
     github: 'https://github.com/atmason90/task-manager',
     demo: 'https://drive.google.com/file/d/1537rwxcusjiyKSdBIf_pWVk4laDyaGDL/view?usp=sharing'
   },
@@ -22,6 +23,7 @@ const data = [
     id: 2,
     image: hungrysharks,
     title: 'Hungry Sharks Card Game',
+    description: 'MERN Stack / Websockets / TailwindCSS',
     github: 'https://github.com/atmason90/hungry-sharks',
     demo: 'https://hungryshark.herokuapp.com/'
   },
@@ -29,27 +31,31 @@ const data = [
     id: 3,
     image: bookend,
     title: 'Bookend Social Media App',
+    description: 'Handlebars / MySql / Express',
     github: 'https://github.com/atmason90/bookend',
     demo: 'https://glacial-plateau-74113.herokuapp.com/'
   },
   {
     id: 4,
     image: techblog,
-    title: 'Tech Blog App',
+    title: 'Tech Blog',
+    description: 'MySql / Node / Express',
     github: 'https://github.com/atmason90/tech-blog-app',
     demo: 'https://the-tech-blog-am.herokuapp.com/'
   },
   {
     id: 5,
     image: texteditor,
-    title: 'Text Editor Progressive Web App',
+    title: 'Text Editor PWA',
+    description: 'IndexedDB / Node / Express',
     github: 'https://github.com/atmason90/text-editor',
     demo: 'https://editmytext.herokuapp.com/'
   },
   {
     id: 6,
     image: ecomm,
-    title: 'E-Commerce Backend API',
+    title: 'E-Commerce Backend',
+    description: 'MySql / Node / Express',
     github: 'https://github.com/atmason90/e-comm-back-end',
     demo: 'https://drive.google.com/file/d/1KBD6tlB82vbEWURTLGDzOHshITIDAft2/view?usp=sharing'
   },
@@ -57,13 +63,15 @@ const data = [
     id: 7,
     image: ems,
     title: 'Team Profile Generator',
+    description: 'Node / Inquirer / Jest',
     github: 'https://github.com/atmason90/team-profile-generator',
     demo: 'https://user-images.githubusercontent.com/99947655/165204617-ddd7d97b-8db4-4af3-b01e-8de7900dcdaa.mp4'
   },
   {
     id: 8,
     image: socialnetwork,
-    title: 'Social Network Backend API',
+    title: 'Social Network Backend',
+    description: 'Express / MongoDB / Mongoose',
     github: 'https://github.com/atmason90/social-network-api',
     demo: 'https://user-images.githubusercontent.com/99947655/169758282-4292a54e-8e30-4d30-ab04-9b888abc0745.mp4'
   }
@@ -76,13 +84,14 @@ const Portfolio = () => {
       <h2>Portfolio</h2>
       <div className="container portfolio__container">
         {
-          data.map(({ id, image, title, github, demo }) => {
+          data.map(({ id, image, title, description, github, demo }) => {
             return (
               <article key={id} className='portfolio__item'>
               <div className='portfolio__item-image'>
                 <img src={image} alt={title} />
               </div>
               <h3>{title}</h3>
+              <p>{description}</p>
               <div className="portfolio__item-cta">
                 <a href={github} className='btn' target='_blank' rel='noreferrer'>Github</a>
                 <a href={demo} className='btn btn-primary' target='_blank' rel='noreferrer'>Demo</a>
