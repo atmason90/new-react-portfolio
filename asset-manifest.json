@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/new-react-portfolio/static/css/main.40003cdf.css",
-    "main.js": "/new-react-portfolio/static/js/main.eb8956ae.js",
+    "main.js": "/new-react-portfolio/static/js/main.f467297d.js",
     "static/media/hungrysharks.gif": "/new-react-portfolio/static/media/hungrysharks.0da36367f959451fe267.gif",
     "static/media/taskmanager.gif": "/new-react-portfolio/static/media/taskmanager.92deea375ee90e9d3012.gif",
     "static/media/profile.png": "/new-react-portfolio/static/media/profile.01439ca805ea3f8d2dfa.png",
+    "static/media/resume.pdf": "/new-react-portfolio/static/media/resume.e550dcdab2224b33de9d.pdf",
     "static/media/bookend.jpeg": "/new-react-portfolio/static/media/bookend.608a5f4764205d234988.jpeg",
-    "static/media/resume.pdf": "/new-react-portfolio/static/media/resume.0615724855f6e604895c.pdf",
     "static/media/profile.jpg": "/new-react-portfolio/static/media/profile.a6c22265466cf6fcacc6.jpg",
     "static/media/ecomm.jpeg": "/new-react-portfolio/static/media/ecomm.2d5397a35390cf4e768f.jpeg",
     "static/media/ems.jpeg": "/new-react-portfolio/static/media/ems.ea340663ebbcd99edf64.jpeg",
@@ -15,10 +15,10 @@
     "static/media/socialnetwork.jpeg": "/new-react-portfolio/static/media/socialnetwork.7b4f204bdc07d28a9af7.jpeg",
     "index.html": "/new-react-portfolio/index.html",
     "main.40003cdf.css.map": "/new-react-portfolio/static/css/main.40003cdf.css.map",
-    "main.eb8956ae.js.map": "/new-react-portfolio/static/js/main.eb8956ae.js.map"
+    "main.f467297d.js.map": "/new-react-portfolio/static/js/main.f467297d.js.map"
   },
   "entrypoints": [
     "static/css/main.40003cdf.css",
-    "static/js/main.eb8956ae.js"
+    "static/js/main.f467297d.js"
   ]
 }
